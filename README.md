@@ -29,4 +29,5 @@ Enter a number : 7
 
 ## Author 
  Kashif Ali 
- 
+
+## If this project is helpful then never miss to Give star
